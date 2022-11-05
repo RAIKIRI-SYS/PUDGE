@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background: url("../img/soska.jpg");
+    background-color: #4fff99;
+    font-family: Arial;
+    line-height: 1.5;
+}
+
+.card{
+    width: 400px;
+    margin: 30px auto;
+    background-color: #000000;
+    box-shadow: 0 5px 10px #550000;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card-photo{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title{
+   color: white;
+    font-size: 30px;
+    font-family:monospace;
+    text-align: center;
+}
+
+.card-text{
+    color:white;
+    font-size: 16px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.ss{
+    font-size: 16px;
+    font-family: monospace;
+    color: lightpink;
+}
